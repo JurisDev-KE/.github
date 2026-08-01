@@ -1,40 +1,38 @@
 # JurisDev Kenya
 
-Building Kenya's Legal Technology Community.
+JurisDev Kenya is a community of lawyers, software developers, researchers, policymakers, students, and other professionals interested in the intersection of law and technology.
 
-## Mission
+We believe meaningful legal innovation happens when people from different disciplines work together. Our goal is to create a space where ideas become practical solutions through collaboration, open-source development, research, and knowledge sharing.
 
-To bring together lawyers, developers, researchers and policymakers to build open legal technology for Kenya and Africa.
+## Our Mission
 
-## What we build
+To bring together legal and technology professionals to build tools, share knowledge, support research, and contribute to the growth of Kenya's legal technology ecosystem.
 
-- Legal datasets
-- AI benchmarks
-- Open-source software
-- Educational resources
-- Research
-- Policy
+## What We Do
 
-## Get involved
+Our work includes:
 
-We're always looking for contributors.
+- Building open-source legal technology projects.
+- Supporting research at the intersection of law and technology.
+- Exploring the responsible use of artificial intelligence in the legal sector.
+- Creating educational resources for students and professionals.
+- Encouraging collaboration between lawyers, developers, researchers, and policymakers.
 
-Whether you're:
+## Get Involved
 
-- Advocate
-- Law student
-- Software engineer
-- Designer
-- Researcher
+JurisDev Kenya is an open community. Whether you are an advocate, law student, software engineer, designer, researcher, policymaker, or simply interested in legal technology, there is a place for you to contribute.
 
-There's a place for you.
+You can contribute by writing code, conducting research, reviewing legal content, improving documentation, participating in discussions, or helping shape new initiatives.
 
 ## Working Groups
 
 - Technology
 - Policy
-- Research
-- Education
-- Community
+- Education & Research
+- Partnerships & Community
 
-Welcome to JurisDev Kenya.
+## Contributing
+
+We welcome contributions of all sizes. If you'd like to get involved, browse our repositories, join the discussions, or open an issue to introduce yourself and share your interests.
+
+Together, we hope to build an open and collaborative legal technology community for Kenya.
